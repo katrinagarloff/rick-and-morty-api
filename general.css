@@ -1,0 +1,11 @@
+.character-image {
+  opacity: .5;
+  width: 75px;
+  height: 75px;
+}
+
+.character-image:hover {
+  opacity: 1;
+  width: 80px;
+  height: 80px;
+}
